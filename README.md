@@ -1,4 +1,4 @@
-# dssnt-play
+# dryj-play
 Playground for various things
 
 ### Example Maven Module
